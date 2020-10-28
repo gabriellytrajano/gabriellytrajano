@@ -1,6 +1,3 @@
-
-<img align= "center" width= "250" src= "https://i.pinimg.com/originals/41/bf/ee/41bfee0401032736ccb5da848acbd813.gif"/>
-
 ### reach me 🎠
 
 <a href="https://www.linkedin.com/in/gabrielly-trajano-00a2681b7/">
@@ -15,3 +12,7 @@
 <a href="https://open.spotify.com/user/12152414269?si=ayNwjXhCQvyc56uzuuhIPw">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/spotify.svg" />
 </a>
+
+<img align= "center" width= "250" src= "https://i.pinimg.com/originals/41/bf/ee/41bfee0401032736ccb5da848acbd813.gif"/>
+
+
