@@ -10,8 +10,8 @@
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/gabrllm/">
-  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/12152414269?si=ayNwjXhCQvyc56uzuuhIPw">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/spotify.svg" />
+  <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/spotify.svg" />
 </a>
