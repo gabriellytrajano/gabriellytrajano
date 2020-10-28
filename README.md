@@ -4,7 +4,7 @@
 ### reach me 🎠
 
 <a href="https://www.linkedin.com/in/gabrielly-trajano-00a2681b7/">
-  <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
 <a href="mailto:gabrielly.amorin@ccc.ufcg.edu.br">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
