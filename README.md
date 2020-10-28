@@ -1,6 +1,5 @@
-<img align= "left" width= "240" src= "https://i.pinimg.com/originals/41/bf/ee/41bfee0401032736ccb5da848acbd813.gif"/>
 
-<img align= "right" width= "240" src= "https://i.pinimg.com/originals/84/f7/9f/84f79f4dd279ef8c0745c4b1eec9ca7e.gif"/>
+<img align= "center" width= "240" src= "https://i.pinimg.com/originals/84/f7/9f/84f79f4dd279ef8c0745c4b1eec9ca7e.gif"/>
 
 ### reach me 🎠
 
