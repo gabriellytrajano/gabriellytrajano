@@ -15,7 +15,3 @@
 <a href="https://open.spotify.com/user/12152414269?si=ayNwjXhCQvyc56uzuuhIPw">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/spotify.svg" />
 </a>
-
-<h3>
-</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=gabriellytrajano&theme=radical">
