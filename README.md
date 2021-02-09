@@ -1,6 +1,6 @@
 <img align= "center" width= "240" src= "https://i.pinimg.com/originals/41/bf/ee/41bfee0401032736ccb5da848acbd813.gif"/>
 
-### reach me 🎠
+### 🎠
 
 <a href="https://www.linkedin.com/in/gabrielly-trajano-00a2681b7/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
