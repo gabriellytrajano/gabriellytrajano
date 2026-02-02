@@ -1,9 +1,5 @@
 <img align= "center" width= "240" src= "https://i.pinimg.com/originals/41/bf/ee/41bfee0401032736ccb5da848acbd813.gif"/>
 
-Engenheira de Software com foco em frontend, arquitetura e código sustentável. Atuação com arquiteturas de microfrontends, utilizando Angular e TypeScript para estruturar frontends modulares, com separação clara de domínios, fluxos assíncronos previsíveis (RxJS) e observabilidade como parte do sistema.
-
-Trabalho orientado a decisões arquiteturais voltadas ao crescimento, confiabilidade e evolução contínua do produto, incluindo acessibilidade (WCAG 2) como parte da definição de qualidade e experiência do usuário.
-
 ### 🎠 reach me
 
 <a href="https://www.linkedin.com/in/gabrielly-trajano-00a2681b7/">
