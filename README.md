@@ -4,7 +4,7 @@
 
 # gabrielly trajano amorin
 
-**`engenheira de software · pesquisadora · fundadora`**
+**`engenheira de software · pesquisadora · empreendedora`**
 
 [![site](https://img.shields.io/badge/gabriellytrajano.github.io-f472b6?style=flat-square&logo=github&logoColor=white)](https://gabriellytrajano.github.io)
 [![evas lab](https://img.shields.io/badge/EVAs_Lab-93c5fd?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)](https://evaslab.com.br)
@@ -16,7 +16,7 @@
 
 ---
 
-bacharel em **Ciência da Computação** pela UFCG. trabalho como engenheira de software focada em **frontend** — mas o que me move é pensar sistemas como estruturas que precisam crescer sem quebrar.
+bacharel em **Ciência da Computação** pela UFCG. trabalho como engenheira de software **frontend**.
 
 me interesso por como sistemas são **usados de verdade**. isso me levou a estudar **Interação Humano-Computador** e **acessibilidade (WCAG)**, tratando experiência do usuário como parte da arquitetura, não só da interface.
 
@@ -33,11 +33,7 @@ fundei o **[EVAs Lab](https://evaslab.com.br)** — laboratório de pesquisa e d
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellytrajano&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=07080f&title_color=f472b6&icon_color=93c5fd&text_color=8b90b8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellytrajano&layout=compact&theme=midnight-purple&hide_border=true&bg_color=07080f&title_color=f472b6&text_color=8b90b8)
-
+<img align= "center" width= "240" src= "https://i.pinimg.com/originals/41/bf/ee/41bfee0401032736ccb5da848acbd813.gif"/>
 </div>
 
 ---
