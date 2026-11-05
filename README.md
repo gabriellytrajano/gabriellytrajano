@@ -4,7 +4,7 @@
 
 # gabrielly trajano amorin
 
-**`engenheira de software · pesquisadora · empreendedora`**
+**`engenheira de software`**
 
 [![site](https://img.shields.io/badge/gabriellytrajano.github.io-f472b6?style=flat-square&logo=github&logoColor=white)](https://gabriellytrajano.github.io)
 [![evas lab](https://img.shields.io/badge/EVAs_Lab-93c5fd?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)](https://evaslab.com.br)
@@ -18,15 +18,11 @@
 
 bacharel em **Ciência da Computação** pela UFCG. trabalho como engenheira de software **frontend**.
 
-me interesso por como sistemas são **usados de verdade**. isso me levou a estudar **Interação Humano-Computador** e **acessibilidade (WCAG)**, tratando experiência do usuário como parte da arquitetura, não só da interface.
-
-fundei o **[EVAs Lab](https://evaslab.com.br)** — laboratório de pesquisa e desenvolvimento na interseção entre sistemas, IA e comportamento humano.
 
 ---
 
 <div align="center">
 
-**`frontend`** · **`arquitetura de software`** · **`HCI`** · **`acessibilidade`** · **`IA`** · **`pesquisa`**
 
 </div>
 
