@@ -7,7 +7,6 @@
 **`engenheira de software`**
 
 [![site](https://img.shields.io/badge/gabriellytrajano.github.io-f472b6?style=flat-square&logo=github&logoColor=white)](https://gabriellytrajano.github.io)
-[![evas lab](https://img.shields.io/badge/EVAs_Lab-93c5fd?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)](https://evaslab.com.br)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0d0e1c?style=flat-square&logo=linkedin&logoColor=93c5fd)](https://linkedin.com/in/gabrielly-trajano)
 [![letterboxd](https://img.shields.io/badge/Letterboxd-0d0e1c?style=flat-square&logo=letterboxd&logoColor=f472b6)](https://letterboxd.com/gabesq)
 [![spotify](https://img.shields.io/badge/Spotify-0d0e1c?style=flat-square&logo=spotify&logoColor=1db954)](https://open.spotify.com/user/12152414269?si=e71232ac8d5e4e85)
